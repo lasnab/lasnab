@@ -18,7 +18,7 @@
 </p>
 
 
-<!-- ![GitHub Logo](/images/logo.png) -->
+![Lasnab Logo](/f_banner.gif)
 
 
 
