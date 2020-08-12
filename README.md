@@ -10,3 +10,12 @@
 </p>
 
 ![BANNER](https://github.com/lasnab/lasnab/blob/master/img/f_banner.gif)
+
+<a href="https://hrithikbansal.com/"><img align="left" width="150" height="150" src="https://github.com/lasnab/lasnab/blob/master/img/hi.png?"></a>
+## About me :sunglasses:
+Persistently endeavoring to work out complex problems by finding innovative way outs, I’m an undergraduate student at the University of Maryland, College Park. Currently, I’m majoring in Computer Science, with a Cybersecurity specialization. 
+
+I enjoy coding, from implementing algorithms in python, to memory allocation in C and full-stack web development with javascript. Having started out as an avid electronics enthusiast, I’ve transitioned into software development. I’m passionate about coding, making things and entrepreneurship! 
+
+### **Want to talk?**
+Send me a mail <a href="mailto:hrithikbansal70@gmail.com">here</a> or connect with me on <a href="https://www.linkedin.com/in/bansalhrithik07/">LinkedIn</a>!
