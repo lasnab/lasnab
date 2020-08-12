@@ -9,6 +9,4 @@
 	<a href="https://vimeo.com/bansalhrithik"><img src="https://img.shields.io/badge/Vimeo--_.svg?style=social&logo=vimeo" alt="vimeo"></a>
 </p>
 
-![Lasnab Logo](/f_banner.gif)
-
 ![image](https://github.com/lasnab/lasnab/blob/master/f_banner.gif)
