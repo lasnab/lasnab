@@ -1,5 +1,6 @@
 # Hi, I'm Hrithik! 👋 ⚡
 
+<p align="center">
 <a href="https://www.youtube.com/user/MrHrithik7"><img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube" alt="YouTube"></a>
 
 <a href="https://www.linkedin.com/in/bansalhrithik07/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?color=515151&style=flat&logo=linkedin" alt="LinkedIn"></a>
@@ -11,7 +12,7 @@
 <a href="https://github.com/lasnab"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github" alt="GitHub"></a>
 
 <a href="https://vimeo.com/bansalhrithik"><img src="https://img.shields.io/badge/Vimeo--_.svg?style=social&logo=vimeo" alt="vimeo"></a>
-
+</p>
 
 ![Lasnab Logo](/f_banner.gif)
 
