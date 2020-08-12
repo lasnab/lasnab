@@ -10,3 +10,5 @@
 </p>
 
 ![Lasnab Logo](/f_banner.gif)
+
+![image](https://github.com/lasnab/lasnab/blob/master/f_banner.gif)
