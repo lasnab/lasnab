@@ -9,7 +9,7 @@
 	<a href="https://vimeo.com/bansalhrithik"><img src="https://img.shields.io/badge/Vimeo--_.svg?color=515151&style=flat&logo=vimeo" alt="vimeo"></a>
 </p>
 
-![BANNER](https://github.com/lasnab/lasnab/blob/master/img/f_banner.gif)
+![BANNER](https://github.com/lasnab/lasnab/blob/master/img/banner.png)
 
 ## About me :sunglasses:
 Persistently endeavoring to work out complex problems by finding innovative way outs, I’m an undergraduate student at the University of Maryland, College Park. Currently, I’m majoring in Computer Science, with a Cybersecurity specialization. 
