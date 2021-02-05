@@ -20,5 +20,6 @@ I enjoy coding, from implementing algorithms in python, to memory allocation in 
 ## Want to talk? :phone:
 Send me a mail :email: <a href="mailto:hrithikbansal70@gmail.com">here</a> or connect with me :point_right::point_left: on <a href="https://www.linkedin.com/in/bansalhrithik07/">LinkedIn</a>!
 
+
 ## Some of my Coding Stats!
 ![Coding](https://wakatime.com/share/@29aea669-cbee-443c-8bd3-2fc3f761f79c/a7bb28b7-f3ab-4bae-807d-ff9be0b7e5be.png)
