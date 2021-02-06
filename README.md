@@ -12,14 +12,13 @@
 ![BANNER](https://github.com/lasnab/lasnab/blob/master/img/banner.png)
 
 ## About me :sunglasses:
-Persistently endeavoring to work out complex problems by finding innovative way outs, I’m an undergraduate student at the University of Maryland, College Park. Currently, I’m majoring in Computer Science, with a Machine Learning specialization. 
+Computer Science Major (3rd Year; Honors) with a Machine Learning Specialization at UMD. I'm currently TA'ing for CMSC414, Computer And Network Security, and working as a student web developer at the University of Maryland's Sandbox Makerspace (UMIACS).
 
-I enjoy coding, from implementing algorithms in python, to memory allocation in C and full-stack web development with javascript. Having started out as an avid electronics enthusiast, I’ve transitioned into software development. I’m passionate about coding, making things and entrepreneurship! 
+I have experience working extensively with Python, React, and implementing API's. Currently, my interests lean towards Full Stack Development, along with the integration of Machine Learning and Data Science to make Web Applications smarter. 
+
+## I Code (a lot!)
+<a href="https://hrithikbansal.com/"><img align="center" width="150" height="150" src="https://wakatime.com/share/@29aea669-cbee-443c-8bd3-2fc3f761f79c/a7bb28b7-f3ab-4bae-807d-ff9be0b7e5be.png"></a>
 
 <a href="https://hrithikbansal.com/"><img align="left" width="150" height="150" src="https://github.com/lasnab/lasnab/blob/master/img/hi.png?"></a>
 ## Want to talk? :phone:
 Send me a mail :email: <a href="mailto:hrithikbansal70@gmail.com">here</a> or connect with me :point_right::point_left: on <a href="https://www.linkedin.com/in/bansalhrithik07/">LinkedIn</a>!
-##
-
-## Some of my Coding Stats!
-![Coding](https://wakatime.com/share/@29aea669-cbee-443c-8bd3-2fc3f761f79c/a7bb28b7-f3ab-4bae-807d-ff9be0b7e5be.png)
