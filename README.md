@@ -21,4 +21,4 @@ I have experience working extensively with Python, React, and implementing API's
 
 <a href="https://hrithikbansal.com/"><img align="left" width="150" height="150" src="https://github.com/lasnab/lasnab/blob/master/img/hi.png?"></a>
 ## Want to talk? :phone:
-Send me a mail :email: <a href="mailto:hrithikbansal70@gmail.com">here</a> or connect with me :point_right::point_left: on <a href="https://www.linkedin.com/in/bansalhrithik07/">LinkedIn</a>!
+Send me a mail :email: <a href="mailto:hrithikbansal70@gmail.com">here</a> or connect with me :point_right::point_left: on <a href="https://www.linkedin.com/in/hrithikb/">LinkedIn</a>!
